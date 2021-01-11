@@ -1,3 +1,3 @@
-# Rigtig god test
+# Rigtig God Test
 
 Rigtig godt indhold
